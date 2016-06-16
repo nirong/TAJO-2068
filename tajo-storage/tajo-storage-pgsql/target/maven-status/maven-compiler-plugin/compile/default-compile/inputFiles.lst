@@ -1,0 +1,3 @@
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-pgsql/src/main/java/org/apache/tajo/storage/pgsql/PgSQLJdbcScanner.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-pgsql/src/main/java/org/apache/tajo/storage/pgsql/PgSQLTablespace.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-pgsql/src/main/java/org/apache/tajo/storage/pgsql/PgSQLMetadataProvider.java

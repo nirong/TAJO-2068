@@ -1,0 +1,11 @@
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/NettyRestHandlerContainer.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/NettyRestServerFactory.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/ResourceConfigUtil.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/NettyRestServer.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/gson/GsonReader.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/gson/GsonFeature.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/NettyRestServerListener.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/NettyRestHandlerContainerProvider.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/gson/GsonWriter.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/gson/GsonUtil.java
+/home/phynix/workspace/TAJO-2068/tajo-rpc/tajo-ws-rs/src/main/java/org/apache/tajo/ws/rs/netty/NettyRestChannelInitializer.java

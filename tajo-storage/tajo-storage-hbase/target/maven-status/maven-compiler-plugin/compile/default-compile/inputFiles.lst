@@ -1,0 +1,15 @@
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/RegionSizeCalculator.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/ColumnMapping.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/IndexPredication.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBaseFragment.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/target/generated-sources/proto/org/apache/tajo/storage/hbase/StorageFragmentProtos.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/SortedInsertRewriter.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBaseTablespace.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HFileAppender.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBaseScanner.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBaseTextSerializerDeserializer.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBaseStorageConstants.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/RowKeyMapping.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBaseBinarySerializerDeserializer.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/AbstractHBaseAppender.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-hbase/src/main/java/org/apache/tajo/storage/hbase/HBasePutAppender.java

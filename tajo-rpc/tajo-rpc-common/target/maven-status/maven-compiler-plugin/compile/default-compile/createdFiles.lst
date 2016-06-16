@@ -1,0 +1,10 @@
+org/apache/tajo/rpc/NettyUtils.class
+org/apache/tajo/rpc/RetriesExhaustedException.class
+org/apache/tajo/rpc/RpcEventListener.class
+org/apache/tajo/rpc/RetriesExhaustedException$ThrowableWithExtraContext.class
+org/apache/tajo/rpc/RpcUtils$Scrutineer.class
+org/apache/tajo/rpc/NettyUtils$GROUP.class
+org/apache/tajo/rpc/RemoteException.class
+org/apache/tajo/rpc/RpcUtils.class
+org/apache/tajo/rpc/RpcConstants.class
+org/apache/tajo/rpc/NettyServerBase.class

@@ -1,0 +1,8 @@
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/JdbcTablespace.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/SQLBuilder.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/SQLExpressionGenerator.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/target/generated-sources/proto/org/apache/tajo/storage/jdbc/JdbcFragmentProtos.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/JdbcFragment.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/ConnectionInfo.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/JdbcMetadataProviderBase.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-jdbc/src/main/java/org/apache/tajo/storage/jdbc/JdbcScanner.java

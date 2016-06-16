@@ -1,0 +1,14 @@
+org/apache/tajo/ws/rs/netty/gson/GsonUtil.class
+org/apache/tajo/ws/rs/netty/NettyRestHandlerContainerProvider.class
+org/apache/tajo/ws/rs/netty/NettyRestServerListener.class
+org/apache/tajo/ws/rs/netty/gson/GsonReader.class
+org/apache/tajo/ws/rs/netty/NettyRestHandlerContainer$NettyRestResponseWriter.class
+org/apache/tajo/ws/rs/netty/NettyRestHandlerContainer$1.class
+org/apache/tajo/ws/rs/netty/NettyRestHandlerContainer$NettyRestResponseWriter$1.class
+org/apache/tajo/ws/rs/netty/NettyRestChannelInitializer.class
+org/apache/tajo/ws/rs/netty/NettyRestServer.class
+org/apache/tajo/ws/rs/netty/gson/GsonWriter.class
+org/apache/tajo/ws/rs/netty/NettyRestHandlerContainer.class
+org/apache/tajo/ws/rs/ResourceConfigUtil.class
+org/apache/tajo/ws/rs/netty/gson/GsonFeature.class
+org/apache/tajo/ws/rs/netty/NettyRestServerFactory.class

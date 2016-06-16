@@ -1,0 +1,6 @@
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/src/test/java/org/apache/tajo/storage/sundb/TestSunDBSQLJdbcTableSpace.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/src/test/java/org/apache/tajo/storage/sundb/TestSunDBEndPointTests.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/src/test/java/org/apache/tajo/storage/sundb/TestSunDBSimpleQueryTests.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/src/test/java/org/apache/tajo/storage/sundb/TestSunDBMetadataPorvider.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/src/test/java/org/apache/tajo/storage/sundb/TestSunDBQueryTests.java
+/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/src/test/java/org/apache/tajo/storage/sundb/SunDBTestServer.java

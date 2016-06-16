@@ -1,0 +1,3 @@
+org/apache/tajo/client/v1/example/TableExample.class
+org/apache/tajo/client/v2/example/TajoClientExample.class
+org/apache/tajo/client/v2/example/TajoClientAsyncExample.class

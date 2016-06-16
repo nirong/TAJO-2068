@@ -1,0 +1,9 @@
+org/apache/tajo/catalog/store/HiveCatalogStoreClientPool$HiveCatalogStoreClient.class
+org/apache/tajo/catalog/store/HiveCatalogStore$1.class
+org/apache/tajo/catalog/store/HiveCatalogStore.class
+org/apache/tajo/catalog/store/HCatalogStore.class
+org/apache/tajo/catalog/store/HiveCatalogStoreClientPool$HiveCatalogStoreClient$1.class
+org/apache/tajo/catalog/store/HiveCatalogStoreClientPool.class
+org/apache/tajo/catalog/store/HiveCatalogStoreClientPool$1.class
+org/apache/tajo/catalog/store/HiveCatalogUtil$1.class
+org/apache/tajo/catalog/store/HiveCatalogUtil.class

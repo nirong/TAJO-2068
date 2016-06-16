@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Tajo Client Example
+Implementation-Version: 0.12.0-SNAPSHOT
+Built-By: phynix
+Specification-Vendor: Apache Software Foundation
+Specification-Title: Tajo Client Example
+Implementation-Vendor-Id: org.apache.tajo
+Build-Jdk: 1.8.0_77
+Specification-Version: 0.12.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Apache Software Foundation
+

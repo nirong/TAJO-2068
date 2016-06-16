@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Fri May 13 07:25:56 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0154-a901-ee05-000020c76f98 
+on database directory memory:/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/target/test-data/fc72d40b-274a-4484-bd0b-51a5937a3615/db with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/home/phynix/workspace/repo/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-504.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 13 07:26:06 GMT 2016: Shutting down Derby engine
+----------------------------------------------------------------
+Fri May 13 07:26:06 GMT 2016:
+Shutting down instance a816c00e-0154-a901-ee05-000020c76f98 on database directory memory:/home/phynix/workspace/TAJO-2068/tajo-storage/tajo-storage-sundb/target/test-data/fc72d40b-274a-4484-bd0b-51a5937a3615/db with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+----------------------------------------------------------------

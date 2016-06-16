@@ -1,0 +1,8 @@
+org/apache/tajo/jdbc/TajoDatabaseMetaData$1.class
+org/apache/tajo/jdbc/util/QueryStringDecoder.class
+org/apache/tajo/jdbc/TajoStatement.class
+org/apache/tajo/jdbc/JdbcConnection.class
+org/apache/tajo/jdbc/TajoDatabaseMetaData.class
+org/apache/tajo/jdbc/TajoStatement$1.class
+org/apache/tajo/jdbc/TajoPreparedStatement.class
+org/apache/tajo/jdbc/TajoDriver.class

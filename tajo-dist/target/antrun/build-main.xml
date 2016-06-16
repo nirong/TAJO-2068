@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main" if="tar">
+  <echo file="/home/phynix/workspace/TAJO-2068/tajo-dist/target/dist-tar-stitching.sh">run() {
+                      echo &quot;\$ ${@}&quot;
+                      &quot;${@}&quot;
+                      res=$?
+                      if [ $res != 0 ]; then
+                      echo
+                      echo &quot;Failed!&quot;
+                      echo
+                      exit $res
+                      fi
+                      }
+
+                      run tar czf tajo-0.12.0-SNAPSHOT.tar.gz tajo-0.12.0-SNAPSHOT
+                      echo
+                      echo &quot;Tajo dist tar available at: /home/phynix/workspace/TAJO-2068/tajo-dist/target/tajo-0.12.0-SNAPSHOT.tar.gz&quot;
+                      echo</echo>
+  <exec failonerror="true" dir="/home/phynix/workspace/TAJO-2068/tajo-dist/target" executable="sh">
+    <arg line="./dist-tar-stitching.sh"/>
+  </exec>
+</target>
+</project>

@@ -1,0 +1,8 @@
+org/apache/tajo/maven/plugin/versioninfo/VersionInfoMojo.class
+org/apache/tajo/maven/plugin/util/Exec$OutputBufferThread.class
+org/apache/tajo/maven/plugin/versioninfo/VersionInfoMojo$1.class
+org/apache/tajo/maven/plugin/util/Exec.class
+org/apache/tajo/maven/plugin/versioninfo/VersionInfoMojo$2.class
+org/apache/tajo/maven/plugin/versioninfo/VersionInfoMojo$SCM.class
+org/apache/tajo/maven/plugin/protoc/ProtocMojo.class
+org/apache/tajo/maven/plugin/util/FileSetUtils.class

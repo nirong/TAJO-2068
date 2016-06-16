@@ -1,0 +1,3 @@
+org/apache/tajo/storage/mysql/MySQLMetadataProvider.class
+org/apache/tajo/storage/mysql/MySQLJdbcScanner.class
+org/apache/tajo/storage/mysql/MySQLTablespace.class

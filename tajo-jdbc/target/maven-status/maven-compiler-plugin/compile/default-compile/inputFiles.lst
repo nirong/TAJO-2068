@@ -1,0 +1,6 @@
+/home/phynix/workspace/TAJO-2068/tajo-jdbc/src/main/java/org/apache/tajo/jdbc/TajoDatabaseMetaData.java
+/home/phynix/workspace/TAJO-2068/tajo-jdbc/src/main/java/org/apache/tajo/jdbc/TajoPreparedStatement.java
+/home/phynix/workspace/TAJO-2068/tajo-jdbc/src/main/java/org/apache/tajo/jdbc/JdbcConnection.java
+/home/phynix/workspace/TAJO-2068/tajo-jdbc/src/main/java/org/apache/tajo/jdbc/TajoStatement.java
+/home/phynix/workspace/TAJO-2068/tajo-jdbc/src/main/java/org/apache/tajo/jdbc/util/QueryStringDecoder.java
+/home/phynix/workspace/TAJO-2068/tajo-jdbc/src/main/java/org/apache/tajo/jdbc/TajoDriver.java

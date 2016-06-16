@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: phynix
+Build-Jdk: 1.8.0_77
+Specification-Title: Tajo Plan
+Specification-Version: 0.12.0-SNAPSHOT
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: Tajo Plan
+Implementation-Version: 0.12.0-SNAPSHOT
+Implementation-Vendor-Id: org.apache.tajo
+Implementation-Vendor: Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+
