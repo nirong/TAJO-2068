@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apache Tajo
 
 Tajo is a relational and distributed data warehouse system for Hadoop.
@@ -51,3 +52,6 @@ For example, to subscribe to dev, send an email from your desired subscription a
     dev-subscribe@tajo.apache.org
 
 and follow the instructions from there.
+=======
+# TAJO-2068
+>>>>>>> 6327aa6950993e2da28e1e6605710e6a5e167a30
