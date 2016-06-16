@@ -102,6 +102,41 @@
   <build>
     <pluginManagement>
       <plugins>
+		<plugin>
+		  <groupId>org.jacoco</groupId>
+		  <artifactId>jacoco-maven-plugin</artifactId>
+		  <version>0.7.7-SNAPSHOT</version>
+		</plugin>
+		            <plugin>
+                <groupId>org.eclipse.m2e</groupId>
+                <artifactId>lifecycle-mapping</artifactId>
+                <version>1.0.0</version>
+                <configuration>
+                    <lifecycleMappingMetadata>
+                        <pluginExecutions>
+                            <pluginExecution>
+                                <pluginExecutionFilter>
+                                    <groupId>
+                                        org.appfuse.plugins
+                                    </groupId>
+                                    <artifactId>
+                                        maven-warpath-plugin
+                                    </artifactId>
+                                    <versionRange>
+                                        [2.1.0,)
+                                    </versionRange>
+                                    <goals>
+                                        <goal>add-classes</goal>
+                                    </goals>
+                                </pluginExecutionFilter>
+                                <action>
+                                    <ignore></ignore>
+                                </action>
+                            </pluginExecution>
+                        </pluginExecutions>
+                    </lifecycleMappingMetadata>
+                </configuration>
+            </plugin>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-dependency-plugin</artifactId>

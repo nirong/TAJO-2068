@@ -20,6 +20,10 @@
       "handler": "org.apache.tajo.storage.mysql.MySQLTablespace",
       "default-format": "rowstore"
     },
+    "jdbc:sundb": {
+      "handler": "org.apache.tajo.storage.sundb.SunDBTablespace",
+      "default-format": "rowstore"
+    },
     "s3": {
       "handler": "org.apache.tajo.storage.s3.S3TableSpace",
       "default-format": "text"

@@ -33,6 +33,8 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <antlr4.visitor>true</antlr4.visitor>
     <antlr4.listener>true</antlr4.listener>
+    <antlr4.plugin.version>4.3</antlr4.plugin.version>
+    <antlr4.version>4.3</antlr4.version>
   </properties>
 
   <build>
@@ -59,14 +61,24 @@
       <plugin>
         <groupId>org.antlr</groupId>
         <artifactId>antlr4-maven-plugin</artifactId>
+        <version>4.3</version>
+            <configuration>
+                <arguments>
+                    <argument>-visitor</argument>
+                    <!-- <argument>-Dlanguage=JavaScript</argument> -->
+                </arguments>
+            </configuration>
+
         <executions>
           <execution>
+            <id>antlr</id>
             <goals>
               <goal>antlr4</goal>
             </goals>
           </execution>
         </executions>
       </plugin>
+
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-dependency-plugin</artifactId>
@@ -100,6 +112,18 @@
       <groupId>org.antlr</groupId>
       <artifactId>antlr4</artifactId>
     </dependency>
+    <dependency>
+        <groupId>org.antlr</groupId>
+        <artifactId>antlr4-runtime</artifactId>
+        <version>${antlr4.version}</version>
+    </dependency>
+ 
+    <dependency>
+        <groupId>org.antlr</groupId>
+        <artifactId>antlr4-maven-plugin</artifactId>
+        <version>${antlr4.plugin.version}</version>
+    </dependency>
+
   </dependencies>
 
   <profiles>
